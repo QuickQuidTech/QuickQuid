@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 export default function Button({ text, type = "primary", onClick }) {
   return (
     <button className={`btn ${type}`} onClick={onClick}>
@@ -6,7 +6,7 @@ export default function Button({ text, type = "primary", onClick }) {
     </button>
   );
 }
-=======
+
 export default function Button({ text, type = "primary", onClick }) {
   return (
     <button className={`btn ${type}`} onClick={onClick}>
@@ -14,4 +14,4 @@ export default function Button({ text, type = "primary", onClick }) {
     </button>
   );
 }
->>>>>>> Stashed changes
+

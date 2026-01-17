@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 export default function Input({ label, placeholder, type = "text" }) {
   return (
     <div className="input-group">
@@ -7,7 +7,7 @@ export default function Input({ label, placeholder, type = "text" }) {
     </div>
   );
 }
-=======
+
 export default function Input({ label, placeholder, type = "text" }) {
   return (
     <div className="input-group">
@@ -16,4 +16,4 @@ export default function Input({ label, placeholder, type = "text" }) {
     </div>
   );
 }
->>>>>>> Stashed changes
+s

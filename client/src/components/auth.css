@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 .auth-container {
   min-height: 100vh;
   background: #111;
@@ -27,7 +26,7 @@
 }
 
 .primary {
-  background: #4DA8FF;
+  background: #4da8ff;
   color: white;
 }
 
@@ -53,7 +52,7 @@
   border: none;
   margin-top: 6px;
 }
-=======
+
 .auth-container {
   min-height: 100vh;
   background: #111;
@@ -82,7 +81,7 @@
 }
 
 .primary {
-  background: #4DA8FF;
+  background: #4da8ff;
   color: white;
 }
 
@@ -108,4 +107,3 @@
   border: none;
   margin-top: 6px;
 }
->>>>>>> Stashed changes
